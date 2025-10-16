@@ -46,7 +46,6 @@ A comprehensive, accessible, and responsive web application designed to help stu
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/KamiPacifique/alu-finance-tracker.git
-   cd FinanceTracker
    ```
 
 2. **Open in browser:**
