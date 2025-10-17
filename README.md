@@ -3,6 +3,7 @@
 A comprehensive, accessible, and responsive web application designed to help students manage their finances effectively. Built with HTML, CSS, and JavaScript.
 
  **Live Demo:** [YouTube URL](https://youtu.be/7yRMunOUaVU)
+ **Pages Deployment:** [link](https://kamipacifique.github.io/alu-finance-tracker/)
 
 ## Features
 
